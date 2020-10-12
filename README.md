@@ -15,8 +15,12 @@ nontice_get(self, {blog_id}, {log_no});
 
     {blog_id} naver blog id   
     {log_no} blog post id   
+    
+![nontice_create](https://user-images.githubusercontent.com/4679634/95758773-d4122300-0ce3-11eb-8037-8525b7ace591.png)
 
 ### HTTP
 nontice_success(self);   
 
     return notice text on response
+
+![nontice_http](https://user-images.githubusercontent.com/4679634/95758812-dffde500-0ce3-11eb-81ad-fb6c479f5d2a.png)
