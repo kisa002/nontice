@@ -10,6 +10,8 @@ Nontice
 
     Put what you want between ||||| and |||||
 
+![nontice_post](https://user-images.githubusercontent.com/4679634/95759007-20f5f980-0ce4-11eb-9510-7c7963cb7e1a.png)
+
 ### Create
 nontice_get(self, {blog_id}, {log_no});    
 
